@@ -1,7 +1,7 @@
-gym[classic_control]
+gym[classic_control]==0.17.1
 nevergrad
-numpy
-ray
+numpy==1.18.2
+ray==0.8.3
 seaborn
-tensorboard
-torch
+tensorboard==2.1.1
+torch==1.4.0
